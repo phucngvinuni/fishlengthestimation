@@ -102,14 +102,8 @@ The output video combines:
 
 ## Example Results
 
-### Original Frame with Annotations
-![Original Frame Example](images/original_frame_example.png)
-
-### Depth Map
-![Depth Map Example](images/depth_map_example.png)
-
 ### Combined Output
-![Combined Output Example](output_depth_yolo.mp4)
+![Combined Output Example]([output_depth_yolo.mp4](https://github.com/phucngvinuni/fishlengthestimation/blob/main/output_depth_yolo.mp4))
 
 ## Future Improvements
 
