@@ -32,7 +32,7 @@ This project combines **YOLO-based object detection** with **depth estimation** 
    - `yolo-fish-2.cfg`: YOLO configuration file.
    - `merge_yolo-fish-2.weights`: YOLO pre-trained weights.
    - `obj.names`: File containing class names (e.g., "fish").
-
+   - Weight is trained on deepfish and ozfish data: https://github.com/tamim662/YOLO-Fish
 4. **Pre-trained Depth Model**:
    - `LiheYoung/depth_anything_vitl14`.
 
